@@ -1,0 +1,15 @@
+# Python >= 3.9
+torch>=2.0
+transformers>=4.30
+sentence-transformers>=2.2
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+pingouin>=0.5
+openpyxl>=3.1
+matplotlib>=3.7
+scikit-learn>=1.3
+Pillow>=9.0
+psutil>=5.9
+# 可选：仅 baseline_mt.py 需要（该脚本依赖在线翻译，默认不运行）
+deep-translator>=1.11

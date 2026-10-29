@@ -1,0 +1,318 @@
+﻿pair_id,paragraph_id,work_title,text_en,text_cn,similarity_score,deviation_score,len_en_tok,len_cn_tok,human_score
+1,1,Cathay,"Song of the Bowmen of Shu
+    Here we are, picking the first fern-shoots
+    And saying: When shall we get back to our country?
+    Here we are because we have the Ken-nin for our foemen,
+    We have no comfort because of these Mongols.
+    We grub the soft fern-shoots,
+    When anyone says ""Return,"" the others are full of sorrow.
+    Sorrowful minds, sorrow is strong, we are hungry and thirsty.
+    Our defence is not yet made sure, no one can let his friend return.
+    We grub the old fern-stalks.
+    We say: Will we be let to go back in October?
+    There is no ease in royal affairs, we have no comfort.
+    Our sorrow is bitter, but we would not return to our country.
+    What flower has come into blossom?
+    Whose chariot? The General's.
+    Horses, his horses even, are tired. They were strong.
+    We have no rest, three battles a month.
+    By heaven, his horses are tired.
+    The generals are on them, the soldiers are by them
+    The horses are well trained, the generals have ivory arrows and quivers ornamented with fish-skin.
+    The enemy is swift, we must be careful.
+    When we set out, the willows were drooping with spring,
+    We come back in the snow,
+    We go slowly, we are hungry and thirsty,
+    Our mind is full of sorrow, who will know of our grief?
+                                    _By Kutsugen._
+                                    _4th Century B.C._",采薇采薇，薇亦作止。曰归曰归，岁亦莫止 采薇采薇，薇亦柔止 采薇采薇，薇亦刚止。采薇采薇，薇亦归止,0.5679,0.4321,359,52,2
+2,2,Cathay,"The Beautiful Toilet
+    Blue, blue is the grass about the river
+    And the willows have overfilled the close garden.
+    And within, the mistress, in the midmost of her youth,
+    White, white of face, hesitates, passing the door.
+    Slender, she puts forth a slender hand,
+    And she was a courtezan in the old days,
+    And she has married a sot,
+    Who now goes drunkenly out
+    And leaves her too much alone.
+                                    _By Mei Sheng._
+                                    _B.C. 140._",青青河畔草，郁郁园中柳 盈盈楼上女，皎皎当窗牗。娥娥红粉妆，纤纤出素手 昔为倡家女，今为荡子妇。荡子行不归，空床难独守,0.7262,0.2738,123,62,3
+3,3,Cathay,"The River Song
+    This boat is of shato-wood, and its gunwales are cut
+    magnolia,
+    Musicians with jewelled flutes and with pipes of gold
+    Fill full the sides in rows, and our wine
+    Is rich for a thousand cups.
+    We carry singing girls, drift with the drifting water,
+    Yet Sennin needs
+    A yellow stork for a charger, and all our seamen
+    Would follow the white gulls or ride them.
+    Kutsu's prose song
+    Hangs with the sun and moon.
+    King So's terraced palace
+    is now but a barren hill,
+    But I draw pen on this barge
+    Causing the five peaks to tremble,
+    And I have joy in these words like the joy of blue islands.
+    (If glory could last forever
+    Then the waters of Han would flow northward.)
+    And I have moped in the Emperor's garden, awaiting an order-to-write!
+    I looked at the dragon-pond, with its willow-coloured water
+    Just reflecting the sky's tinge,
+    And heard the five-score nightingales aimlessly singing.
+    The eastern wind brings the green colour into the island grasses at Yei-shu,
+    The purple house and the crimson are full of Spring softness.
+    South of the pond the willow-tips are half-blue and bluer,
+    Their cords tangle in mist, against the brocade-like palace.
+    Vine-strings a hundred feet long hang down from carved railings,
+    And high over the willows, the fine birds sing to each other, and listen,
+    Crying--""Kwan, Kuan,"" for the early wind, and the feel of it.
+    The wind bundles itself into a bluish cloud and wanders off.
+    Over a thousand gates, over a thousand doors are the sounds of spring  singing,
+    And the Emperor is at Ko.
+    Five clouds hang aloft, bright on the purple sky,
+    The imperial guards come forth from the golden house with their armour a-gleaming.
+    The emperor in his jewelled car goes out to inspect his flowers,
+    He goes out to Hori, to look at the wing-flapping storks,
+    He returns by way of Sei rock, to hear the new nightingales,
+    For the gardens at Jo-run are full of new nightingales,
+    Their sound is mixed in this flute,
+    Their voice is in the twelve pipes here.
+                                    _By Rihaku._
+                                    _8th century A.D._",仙人有待乘黄鹤，海客无心随白鸥 功名富贵若长在，汉水亦应西北流,0.5508,0.4492,573,33,2
+4,4,Cathay,"The River-Merchant's Wife: a Letter
+   While my hair was still cut straight across my forehead
+    I played about the front gate, pulling flowers.
+    You came by on bamboo stilts, playing horse,
+    You walked about my seat, playing with blue plums.
+    And we went on living in the village of Chokan:
+    Two small people, without dislike or suspicion.
+    At fourteen I married My Lord you.
+    I never laughed, being bashful.
+    Lowering my head, I looked at the wall.
+    Called to, a thousand times, I never looked back.
+    At fifteen I stopped scowling,
+    I desired my dust to be mingled with yours
+    Forever and forever, and forever.
+    Why should I climb the look out?
+    At sixteen you departed,
+    You went into far Ku-to-Yen, by the river of swirling eddies,
+    And you have been gone five months.
+    The monkeys make sorrowful noise overhead.
+    You dragged your feet when you went out.
+    By the gate now, the moss is grown, the different mosses,
+    Too deep to clear them away!
+    The leaves fall early this autumn, in wind.
+    The paired butterflies are already yellow with August
+    Over the grass in the West garden,
+    They hurt me,
+    I grow older,
+    If you are coming down through the narrows of the river Kiang,
+    Please let me know beforehand,
+    And I will come out to meet you,
+    As far as Cho-fu-Sa.
+                                    _By Rihaku._",郎骑竹马来，绕床弄青梅。同居长干里，两小无嫌猜 门前迟行迹，一一生绿苔。苔深不能扫 相迎不道远，直至长风沙,0.591,0.409,338,53,3
+5,5,Cathay,"The Jewel Stairs' Grievance
+   The jewelled steps are already quite white with dew,
+    It is so late that the dew soaks my gauze stockings,
+    And I let down the crystal curtain
+    And watch the moon through the clear autumn.
+                                    _By Rihaku._",玉阶生白露，夜久侵罗袜。却下水晶帘，玲珑望秋月,0.5809,0.4191,66,25,4
+6,6,Cathay,"Poem by the Bridge at Ten-Shin
+    March has come to the bridge head,
+    Peach boughs and apricot boughs hang over a thousand gates,
+    At morning there are flowers to cut the heart,
+    And evening drives them on the eastward-flowing waters.
+    Petals are on the gone waters and on the going,
+    And on the back-swirling eddies,
+    But to-days men are not the men of the old days,
+    Though they hang in the same way over the bridge-rail.
+    The sea's colour moves at the dawn
+    And the princes still stand in rows, about the throne,
+    And the moon falls over the portals of Sei-go-yo,
+    And clings to the walls and the gate-top.
+    With head-gear glittering against the cloud and sun,
+    The lords go forth from the court, and into far borders.
+    They ride upon dragon-like horses,
+    Upon horses with head-trappings of yellow-metal,
+    And the streets make way for their passage.
+                        Haughty their passing,
+    Haughty their steps as they go into great banquets,
+    To high halls and curious food,
+    To the perfumed air and girls dancing,
+    To clear flutes and clear singing;
+    To the dance of the seventy couples;
+    To the mad chase through the gardens.
+    Night and day are given over to pleasure
+    And they think it will last a thousand autumns, Unwearying autumns.
+    For them the yellow dogs howl portents in vain,
+    And what are they compared to the lady Riokushu,That was cause of hate!
+    Who among them is a man like Han-rei
+    Who departed alone with his mistress,
+    With her hair unbound, and he his own skiffs-man!
+                                    _By Rihaku._",天津三月时，千门桃与李。朝为断肠花，暮逐东流水,0.3796,0.6204,403,25,2
+7,7,Cathay,"Lament of the Frontier Guard
+    By the North Gate, the wind blows full of sand,
+    Lonely from the beginning of time until now!
+    Trees fall, the grass goes yellow with autumn.
+    I climb the towers and towers to watch out the barbarous land:
+    Desolate castle, the sky, the wide desert.
+    There is no wall left to this village.
+    Bones white with a thousand frosts,
+    High heaps, covered with trees and grass;
+    Who brought this to pass?
+    Who has brought the flaming imperial anger?
+    Who has brought the army with drums and with kettle-drums?
+    Barbarous kings.
+    A gracious spring, turned to blood-ravenous autumn,
+    A turmoil of wars-men, spread over the middle kingdom,
+    Three hundred and sixty thousand,
+    And sorrow, sorrow like rain.
+    Sorrow to go, and sorrow, sorrow returning,
+    Desolate, desolate fields,
+    And no children of warfare upon them, No longer the men for offence and defence.
+    Ah, how shall you know the dreary sorrow at the North Gate,
+    With Rihoku's name forgotten,
+    And we guardsmen fed to the tigers.
+                                    _Rihaku._",木落秋草黄 登高望荒裔 荒城空大漠 三十六万人，哀哀泪如雨 李牧今不在，边人饲豺虎,0.7263,0.2737,277,39,3
+8,8,Cathay,"Exile's Letter
+    To So-Kin of Rakuyo, ancient friend, Chancellor of Gen.
+    Now I remember that you built me a special tavern
+    By the south side of the bridge at Ten-Shin.
+    With yellow gold and white jewels, we paid for songs and laughter
+    And we were drunk for month on month, forgetting the kings and  princes.
+    Intelligent men came drifting in from the sea and from the west border,
+    And with them, and with you especially
+    There was nothing at cross purpose,
+    And they made nothing of sea-crossing or of mountain crossing,
+    If only they could be of that fellowship,
+    And we all spoke out our hearts and minds, and without regret.
+    And then I was sent off to South Wei,smothered in laurel groves,
+    And you to the north of Raku-hoku,
+    Till we had nothing but thoughts and memories in common.
+    And then, when separation had come to its worst,
+    We met, and travelled into Sen-Go,
+    Through all the thirty-six folds of the turning and twisting waters,
+    Into a valley of the thousand bright flowers,
+    That was the first valley;
+    And into ten thousand valleys full of voices and pine-winds.
+    And with silver harness and reins of gold,
+    Out come the East of Kan foreman and his company.
+    And there came also the ""True man"" of Shi-yo to meet me,
+    Playing on a jewelled mouth-organ.
+    In the storied houses of San-Ko they gave us more Sennin
+        music,
+    Many instruments, like the sound of young phoenix broods.
+    The foreman of Kan Chu, drunk, danced because his long sleeves wouldn't keep still
+    With that music-playing.
+    And I, wrapped in brocade, went to sleep with my head on his lap,
+    And my spirit so high it was all over the heavens,
+    And before the end of the day we were scattered like stars,or rain.
+    I had to be off to So, far away over the waters,
+    You back to your river-bridge.
+    And your father, who was brave as a leopard,
+    Was governor in Hei Shu, and put down the barbarian rabble.
+    And one May he had you send for me,despite the long distance.
+    And what with broken wheels and so on, I won't say it wasn't hard going,
+    Over roads twisted like sheeps' guts.
+    And I was still going, late in the year, in the cutting wind from the North,
+    And thinking how little you cared for the cost, and you caring enough to pay it.
+    And what a reception:
+    Red jade cups, food well set on a blue jewelled table,
+    And I was drunk, and had no thought of returning.
+    And you would walk out with me to the western corner of the castle,
+    To the dynastic temple, with water about it clear as blue jade,
+    With boats floating, and the sound of mouth-organs and drums,
+    With ripples like dragon-scales, going grass green on the water,
+    Pleasure lasting, with courtezans, going and coming without hindrance,
+    With the willow flakes falling like snow,
+    And the vermilioned girls getting drunk about sunset,
+    And the water a hundred feet deep reflecting green eyebrows
+    --Eyebrows painted green are a fine sight in young moonlight,
+    Gracefully painted--
+    And the girls singing back at each other,
+    Dancing in transparent brocade,
+    And the wind lifting the song, and interrupting it,
+    Tossing it up under the clouds.
+     And all this comes to an end.
+     And is not again to be met with.
+    I went up to the court for examination,
+    Tried Layu's luck, offered the Choyo song,
+    And got no promotion,
+    and went back to the East Mountains
+    white-headed.
+    And once again, later, we met at the South bridge-head.
+    And then the crowd broke up, you went north to San palace,
+    And if you ask how I regret that parting:
+    It is like the flowers falling at Spring's end
+    Confused, whirled in a tangle.
+    What is the use of talking, and there is no end of talking,
+    There is no end of things in the heart.
+    I call in the boy,
+    Have him sit on his knees here
+                 To seal this,
+    And send it a thousand miles, thinking.
+                                    _By Rihaku._","忆昔洛阳董糟丘，为余天津桥南造酒楼。黄金白璧买歌笑，一醉累月轻王侯 君家严军勇豺虎，作尹并州遏戎虏。五月相呼度太行，摧轮不道羊肠苦 汉中太守醉起舞。手持锦袍覆我身，我醉横眠枕其股。当筵意气凌九霄，星离雨散不终朝 余既还山寻故巢,君亦归家渡渭桥 红妆欲醉宜斜日，百尺清潭写翠娥。翠娥婵娟初月辉，美人更唱舞罗衣。清风吹歌人空去，歌曲自绕行云飞 时时出向城西曲，晋祠流水如碧玉。浮舟弄水箫鼓鸣，微波龙鳞莎草绿。兴来携妓恣经过，其若杨花似雪何 此时行乐再难遇 呼儿长跪缄此辞，寄君千里遥相忆",0.8007,0.1993,998,237,3
+9,10,Cathay,"FOUR POEMS OF DEPARTURE
+    _Light rain is on the light dust._
+    _The willows of the inn-yard_
+    _Will be going greener and greener,_
+    _But you, Sir, had better take wine ere your departure,_
+    _For you will have no friends about you_
+    _When you come to the gates of Go._",渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人,0.6541,0.3459,83,33,4
+10,11,Cathay,"Separation on the River Kiang
+    Ko-jin goes west from Ko-kaku-ro,
+    The smoke-flowers are blurred over the river.
+    His lone sail blots the far sky.
+    And now I see only the river,
+    The long Kiang, reaching heaven.",故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流,0.617,0.383,65,33,4
+11,12,Cathay,"Taking Leave of a Friend
+    Blue mountains to the north of the walls,
+    White river winding about them;
+    Here we must make separation
+    And go out through a thousand miles of dead grass.
+    Mind like a floating wide cloud.
+    Sunset like the parting of old acquaintances
+    Who bow over their clasped hands at a distance.
+    Our horses neigh to each other as we are departing.",青山横北郭，白水绕东城。此地一为别，孤蓬万里征。浮云游子意，落日故人情。挥手自兹去，萧萧班马鸣,0.5984,0.4016,91,50,4
+12,13,Cathay,"Leave-taking near Shoku
+    ""_Sanso, King of Shoku, built roads_""
+    They say the roads of Sanso are steep,
+    Sheer as the mountains.
+    The walls rise in a man's face,
+    Clouds grow out of the hill at his horse's bridle.
+    Sweet trees are on the paved way of the Shin,
+    Their trunks burst through the paving,
+    And freshets are bursting their ice in the midst of Shoku, a proud city.
+    Men's fates are already set,
+    There is no need of asking diviners.",见说蚕丛路，崎岖不易行。山从人面起，云傍马头生。芳树笼秦栈，春流绕蜀城。升沉应已定，不必问君平,0.547,0.453,134,48,3
+13,14,Cathay,"The City of Choan
+     The phoenix are at play on their terrace.
+     The phoenix are gone, the river flows on alone.
+     Flowers and grass
+     Cover over the dark path where lay the dynastic house of the Go.
+     The bright cloths and bright caps of Shin
+     Are now the base of old hills
+     The Three Mountains fall through the far heaven,
+     The isle of White Heron splits the two streams apart.
+     Now the high clouds cover the sun
+     And I can not see Choan afar 
+     And I am sad.",凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古丘,0.6733,0.3267,119,31,3
+14,15,Cathay,"South-Folk in Cold Country
+    The Dai horse neighs against the bleak wind of Etsu,
+    The birds of Etsu have no love for En, in the north,
+    Emotion is born out of habit.
+    Yesterday we went out of the Wild-Goose gate,
+    To-day from the Dragon-Pen.[1]
+    Surprised. Desert turmoil. Sea sun.
+    Flying snow bewilders the barbarian heaven.
+    Lice swarm like ants over our accoutrements.
+    Mind and spirit drive on the feathery banners.
+    Hard fight gets no reward.
+    Loyalty is hard to explain.
+    Who will be sorry for General Rishogu, the swift moving,
+    Whose white head is lost for this province?
+   [1] I.e., we have been warring from one end of the empire to the other, now east, now west, on each border.
+    ""Drawing sword, cut into water, water again flow:
+    Raise cup, quench sorrow, sorrow again sorry.""",代马不思越，越鸟不恋燕。人情贵旧乡，昔出雁门塞 抽刀断水水更流，举杯消愁愁更愁,0.6254,0.3746,221,42,2

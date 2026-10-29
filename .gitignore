@@ -1,0 +1,9 @@
+﻿models/*
+!models/README.md
+outputs/*
+!outputs/.gitkeep
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.egg-info/
