@@ -13,3 +13,6 @@ Pillow>=9.0
 psutil>=5.9
 # 可选：仅 baseline_mt.py 需要（该脚本依赖在线翻译，默认不运行）
 deep-translator>=1.11
+# 可选：仅 baseline_bertscore.py 需要
+# bert-score 0.3.10/0.3.11 元数据损坏会被新版 pip 拒绝，建议 0.3.12 且加 --no-deps
+# pip install "bert-score>=0.3.12" --no-deps

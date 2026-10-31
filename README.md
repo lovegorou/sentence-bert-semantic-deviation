@@ -130,6 +130,12 @@ python src/figures.py           # 图 1–5
 
 > **口径提示**：`all_results_merged.csv` 的 `human_score` 列已是 round2/3/4 三轮均值（论文主口径），与表 4 的 0.211 / 0.379 一致。若改用 round2 单人分数，相关系数会降到 0.052 / 0.062——这不是复现失败，而是基准口径不同，见 `agreement.py` 的「仅评分者A」一行与 `docs/paper_mapping.md`。
 
+## 五之二、公开方法对照
+
+`src/baseline_bertscore.py` 提供了一个公开指标 BERTScore 的对照。
+其原始相关（0.514）高于本文两种句向量方案，但控制文本长度后转为负（−0.242），
+说明该优势源于长度混淆。详见 `docs/paper_mapping.md`。
+
 ## 六、已知限制
 
 1. **样本量小（n=14）**。任何相关分析的置信区间都很宽，不宜作强推断。
