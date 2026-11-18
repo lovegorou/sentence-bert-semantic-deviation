@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this tool, please cite the paper listed in README."
-title: "A multilingual Sentence-BERT tool for semantic deviation assessment of Chinese-English comparable texts"
-version: 1.0.0
-date-released: 2026-10-29
+title: "A multilingual Sentence-BERT tool for semantic deviation assessment of Chinese-English poetry comparable texts"
+version: 1.1.0
+date-released: 2026-11-18
 license: MIT
 type: software
 authors:

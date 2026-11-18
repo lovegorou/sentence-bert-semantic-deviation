@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """一键复现入口。
 
 用法：
@@ -43,7 +43,7 @@ if __name__ == '__main__':
         print('       仓库已附带二者的输出 CSV，③④⑤ 可直接运行。')
         print('       如需从头编码文本，先按 README 第三节下载权重。')
     run('stats.py', '③ 相关系数与置换检验（表 4）')
-    run('agreement.py', '④ 评分者信度与基准口径（表 7）')
+    run('agreement.py', '④ 评分者信度与基准口径（表 6）')
     run('figures.py', '⑤ 论文插图（图 1–5）')
     if with_perf:
         run('perf_benchmark.py', '⑥ 性能基准（表 1）')

@@ -1,4 +1,4 @@
-# analysis.py
+﻿# analysis.py
 import os
 import pandas as pd
 import numpy as np
@@ -142,7 +142,7 @@ if 'mt_similarity' in df_all.columns:
 
 print("\n" + "-" * 60)
 print("Bonferroni 校正后 p 值：")
-n_methods = len(results)
+n_methods = 3  # MiniLM + LaBSE + BERTScore(截断)；BERTScore 分块为敏感性对照，不单独计入家族
 for name, r in results.items():
     print(f"{name}: perm_p = {r['perm_p']:.4f}, 校正后 = {min(r['perm_p'] * n_methods, 1.0):.4f}")
 

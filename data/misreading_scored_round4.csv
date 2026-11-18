@@ -1,4 +1,4 @@
-﻿pair_id,paragraph_id,work_title,text_en,text_cn,similarity_score,deviation_score,len_en_tok,len_cn_tok,human_score
+﻿pair_id,paragraph_id,work_title,text_en,text_cn,len_en_tok,len_cn_tok,human_score,similarity_score,deviation_score
 1,1,Cathay,"Song of the Bowmen of Shu
     Here we are, picking the first fern-shoots
     And saying: When shall we get back to our country?
@@ -25,7 +25,7 @@
     We go slowly, we are hungry and thirsty,
     Our mind is full of sorrow, who will know of our grief?
                                     _By Kutsugen._
-                                    _4th Century B.C._",采薇采薇，薇亦作止。曰归曰归，岁亦莫止 采薇采薇，薇亦柔止 采薇采薇，薇亦刚止。采薇采薇，薇亦归止,0.5679,0.4321,359,52,3
+                                    _4th Century B.C._",采薇采薇，薇亦作止。曰归曰归，岁亦莫止 采薇采薇，薇亦柔止 采薇采薇，薇亦刚止。采薇采薇，薇亦归止,359,52,3,0.5534,0.4466
 2,2,Cathay,"The Beautiful Toilet
     Blue, blue is the grass about the river
     And the willows have overfilled the close garden.
@@ -37,7 +37,7 @@
     Who now goes drunkenly out
     And leaves her too much alone.
                                     _By Mei Sheng._
-                                    _B.C. 140._",青青河畔草，郁郁园中柳 盈盈楼上女，皎皎当窗牗。娥娥红粉妆，纤纤出素手 昔为倡家女，今为荡子妇。荡子行不归，空床难独守,0.7262,0.2738,123,62,3
+                                    _B.C. 140._",青青河畔草，郁郁园中柳 盈盈楼上女，皎皎当窗牗。娥娥红粉妆，纤纤出素手 昔为倡家女，今为荡子妇。荡子行不归，空床难独守,123,62,3,0.7262,0.2738
 3,3,Cathay,"The River Song
     This boat is of shato-wood, and its gunwales are cut
     magnolia,
@@ -80,7 +80,7 @@
     Their sound is mixed in this flute,
     Their voice is in the twelve pipes here.
                                     _By Rihaku._
-                                    _8th century A.D._",仙人有待乘黄鹤，海客无心随白鸥 功名富贵若长在，汉水亦应西北流,0.5508,0.4492,573,33,2
+                                    _8th century A.D._",仙人有待乘黄鹤，海客无心随白鸥 功名富贵若长在，汉水亦应西北流,573,33,2,0.5546,0.4454
 4,4,Cathay,"The River-Merchant's Wife: a Letter
    While my hair was still cut straight across my forehead
     I played about the front gate, pulling flowers.
@@ -112,13 +112,13 @@
     Please let me know beforehand,
     And I will come out to meet you,
     As far as Cho-fu-Sa.
-                                    _By Rihaku._",郎骑竹马来，绕床弄青梅。同居长干里，两小无嫌猜 门前迟行迹，一一生绿苔。苔深不能扫 相迎不道远，直至长风沙,0.591,0.409,338,53,4
+                                    _By Rihaku._",郎骑竹马来，绕床弄青梅。同居长干里，两小无嫌猜 门前迟行迹，一一生绿苔。苔深不能扫 相迎不道远，直至长风沙,338,53,4,0.5835,0.4165
 5,5,Cathay,"The Jewel Stairs' Grievance
    The jewelled steps are already quite white with dew,
     It is so late that the dew soaks my gauze stockings,
     And I let down the crystal curtain
     And watch the moon through the clear autumn.
-                                    _By Rihaku._",玉阶生白露，夜久侵罗袜。却下水晶帘，玲珑望秋月,0.5809,0.4191,66,25,4
+                                    _By Rihaku._",玉阶生白露，夜久侵罗袜。却下水晶帘，玲珑望秋月,66,25,4,0.5809,0.4191
 6,6,Cathay,"Poem by the Bridge at Ten-Shin
     March has come to the bridge head,
     Peach boughs and apricot boughs hang over a thousand gates,
@@ -151,7 +151,7 @@
     Who among them is a man like Han-rei
     Who departed alone with his mistress,
     With her hair unbound, and he his own skiffs-man!
-                                    _By Rihaku._",天津三月时，千门桃与李。朝为断肠花，暮逐东流水,0.3796,0.6204,403,25,2
+                                    _By Rihaku._",天津三月时，千门桃与李。朝为断肠花，暮逐东流水,403,25,2,0.3685,0.6315
 7,7,Cathay,"Lament of the Frontier Guard
     By the North Gate, the wind blows full of sand,
     Lonely from the beginning of time until now!
@@ -175,7 +175,7 @@
     Ah, how shall you know the dreary sorrow at the North Gate,
     With Rihoku's name forgotten,
     And we guardsmen fed to the tigers.
-                                    _Rihaku._",木落秋草黄 登高望荒裔 荒城空大漠 三十六万人，哀哀泪如雨 李牧今不在，边人饲豺虎,0.7263,0.2737,277,39,3
+                                    _Rihaku._",木落秋草黄 登高望荒裔 荒城空大漠 三十六万人，哀哀泪如雨 李牧今不在，边人饲豺虎,277,39,3,0.7333,0.2667
 8,8,Cathay,"Exile's Letter
     To So-Kin of Rakuyo, ancient friend, Chancellor of Gen.
     Now I remember that you built me a special tavern
@@ -253,20 +253,20 @@
     Have him sit on his knees here
                  To seal this,
     And send it a thousand miles, thinking.
-                                    _By Rihaku._","忆昔洛阳董糟丘，为余天津桥南造酒楼。黄金白璧买歌笑，一醉累月轻王侯 君家严军勇豺虎，作尹并州遏戎虏。五月相呼度太行，摧轮不道羊肠苦 汉中太守醉起舞。手持锦袍覆我身，我醉横眠枕其股。当筵意气凌九霄，星离雨散不终朝 余既还山寻故巢,君亦归家渡渭桥 红妆欲醉宜斜日，百尺清潭写翠娥。翠娥婵娟初月辉，美人更唱舞罗衣。清风吹歌人空去，歌曲自绕行云飞 时时出向城西曲，晋祠流水如碧玉。浮舟弄水箫鼓鸣，微波龙鳞莎草绿。兴来携妓恣经过，其若杨花似雪何 此时行乐再难遇 呼儿长跪缄此辞，寄君千里遥相忆",0.8007,0.1993,998,237,3
+                                    _By Rihaku._","忆昔洛阳董糟丘，为余天津桥南造酒楼。黄金白璧买歌笑，一醉累月轻王侯 君家严军勇豺虎，作尹并州遏戎虏。五月相呼度太行，摧轮不道羊肠苦 汉中太守醉起舞。手持锦袍覆我身，我醉横眠枕其股。当筵意气凌九霄，星离雨散不终朝 余既还山寻故巢,君亦归家渡渭桥 红妆欲醉宜斜日，百尺清潭写翠娥。翠娥婵娟初月辉，美人更唱舞罗衣。清风吹歌人空去，歌曲自绕行云飞 时时出向城西曲，晋祠流水如碧玉。浮舟弄水箫鼓鸣，微波龙鳞莎草绿。兴来携妓恣经过，其若杨花似雪何 此时行乐再难遇 呼儿长跪缄此辞，寄君千里遥相忆",998,237,3,0.7878,0.2122
 9,10,Cathay,"FOUR POEMS OF DEPARTURE
     _Light rain is on the light dust._
     _The willows of the inn-yard_
     _Will be going greener and greener,_
     _But you, Sir, had better take wine ere your departure,_
     _For you will have no friends about you_
-    _When you come to the gates of Go._",渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人,0.6541,0.3459,83,33,4
+    _When you come to the gates of Go._",渭城朝雨浥轻尘，客舍青青柳色新。劝君更尽一杯酒，西出阳关无故人,83,33,4,0.6541,0.3459
 10,11,Cathay,"Separation on the River Kiang
     Ko-jin goes west from Ko-kaku-ro,
     The smoke-flowers are blurred over the river.
     His lone sail blots the far sky.
     And now I see only the river,
-    The long Kiang, reaching heaven.",故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流,0.617,0.383,65,33,3
+    The long Kiang, reaching heaven.",故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流,65,33,3,0.617,0.383
 11,12,Cathay,"Taking Leave of a Friend
     Blue mountains to the north of the walls,
     White river winding about them;
@@ -275,7 +275,7 @@
     Mind like a floating wide cloud.
     Sunset like the parting of old acquaintances
     Who bow over their clasped hands at a distance.
-    Our horses neigh to each other as we are departing.",青山横北郭，白水绕东城。此地一为别，孤蓬万里征。浮云游子意，落日故人情。挥手自兹去，萧萧班马鸣,0.5984,0.4016,91,50,3
+    Our horses neigh to each other as we are departing.",青山横北郭，白水绕东城。此地一为别，孤蓬万里征。浮云游子意，落日故人情。挥手自兹去，萧萧班马鸣,91,50,3,0.5984,0.4016
 12,13,Cathay,"Leave-taking near Shoku
     ""_Sanso, King of Shoku, built roads_""
     They say the roads of Sanso are steep,
@@ -286,7 +286,7 @@
     Their trunks burst through the paving,
     And freshets are bursting their ice in the midst of Shoku, a proud city.
     Men's fates are already set,
-    There is no need of asking diviners.",见说蚕丛路，崎岖不易行。山从人面起，云傍马头生。芳树笼秦栈，春流绕蜀城。升沉应已定，不必问君平。,0.547,0.453,134,48,3
+    There is no need of asking diviners.",见说蚕丛路，崎岖不易行。山从人面起，云傍马头生。芳树笼秦栈，春流绕蜀城。升沉应已定，不必问君平。,134,48,3,0.547,0.453
 13,14,Cathay,"The City of Choan
      The phoenix are at play on their terrace.
      The phoenix are gone, the river flows on alone.
@@ -298,7 +298,7 @@
      The isle of White Heron splits the two streams apart.
      Now the high clouds cover the sun
      And I can not see Choan afar 
-     And I am sad.",凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古丘,0.6733,0.3267,119,31,3
+     And I am sad.",凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古丘,119,31,3,0.6733,0.3267
 14,15,Cathay,"South-Folk in Cold Country
     The Dai horse neighs against the bleak wind of Etsu,
     The birds of Etsu have no love for En, in the north,
@@ -315,4 +315,4 @@
     Whose white head is lost for this province?
    [1] I.e., we have been warring from one end of the empire to the other, now east, now west, on each border.
     ""Drawing sword, cut into water, water again flow:
-    Raise cup, quench sorrow, sorrow again sorry.""",代马不思越，越鸟不恋燕。人情贵旧乡，昔出雁门塞 抽刀断水水更流，举杯消愁愁更愁,0.6254,0.3746,221,42,2
+    Raise cup, quench sorrow, sorrow again sorry.""",代马不思越，越鸟不恋燕。人情贵旧乡，昔出雁门塞 抽刀断水水更流，举杯消愁愁更愁,221,42,2,0.5497,0.4503
